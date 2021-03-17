@@ -1,0 +1,46 @@
+body{
+    background: rgb(43, 128, 106);
+}
+.reference-image-1{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border: 10px solid #82b5b3;
+    background-image: url("https://i.ibb.co/5LNhp0J/Snake-Wine.jpg");
+    top: 25px;
+    left: 25px;
+    border-radius: 50%;
+    z-index: 0;
+}
+.paragraph-1-bg{
+    position: absolute;
+    background-image: url("https://media.istockphoto.com/vectors/snake-skin-seamless-pattern-illustration-vector-id1143255774?k=6&m=1143255774&s=612x612&w=0&h=exK2uBFxoBPXsC-ZImQvXFtl-JA0kOzVFMvUrRBeJxQ=");
+    width: 1100px;
+    height: 261px;    
+    left: 180px;
+    top: 27.5px;
+    border-radius: 25px;
+    z-index: -1;
+}
+.paragraph-1{
+    position: absolute;
+    text-align: left;
+    letter-spacing: -0.082em;
+    font-weight: 700;
+    border-image-repeat: repeat;
+    width: 980px;
+    height: 250px;    
+    left: 300px;
+    top: 15px;
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;   
+    -webkit-text-stroke: 1px #000000;
+    text-shadow:
+        3px 3px 0 #000000,
+      -1px -1px 0 #000000,  
+       1px -1px 0 #000000,
+       -1px 1px 0 #000000,
+        1px 1px 0 #000000;
+    font-size: 28px;
+    font-weight: bold;
+}
