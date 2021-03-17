@@ -6,7 +6,9 @@ body{
     width: 250px;
     height: 250px;
     border: 10px solid #82b5b3;
-    background-image: url("https://i.ibb.co/5LNhp0J/Snake-Wine.jpg");
+    background-image: url("https://i.ibb.co/PzqtH7X/naruto.jpg");
+    background-position: center;
+    background-size: contain;
     top: 25px;
     left: 25px;
     border-radius: 50%;
@@ -14,8 +16,8 @@ body{
 }
 .paragraph-1-bg{
     position: absolute;
-    background-image: url("https://media.istockphoto.com/vectors/snake-skin-seamless-pattern-illustration-vector-id1143255774?k=6&m=1143255774&s=612x612&w=0&h=exK2uBFxoBPXsC-ZImQvXFtl-JA0kOzVFMvUrRBeJxQ=");
-    width: 1100px;
+    background-image: url("https://i.ibb.co/dQB88Yj/Akatsuki.jpg");
+    width: 1100px;  
     height: 261px;    
     left: 180px;
     top: 27.5px;
