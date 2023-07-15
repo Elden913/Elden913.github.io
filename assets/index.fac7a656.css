@@ -1,0 +1,1 @@
+:root{--editor-font-size: 1.5rem}#app *{font-family:Victor mono,monospace}body{margin:0;background-color:#161616}#tabs{background-color:#202020;overflow:auto;white-space:nowrap;height:2.2rem}.tab{color:#eaeaea;display:inline-block;font-size:var(--editor-font-size);height:100%}.tab:before{content:"\a0"}.tab:after{content:"\a0"}.selected-tab{background-color:#161616}
